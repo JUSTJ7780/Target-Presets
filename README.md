@@ -10,9 +10,7 @@ Features:
 - HUD-style popup showing the active preset name
 - Rename presets
 - Add preset slots up to a 20-preset cap
-- Click-to-bind keybind controls in the NO UI Framework menu
 - Edit filters from the mod menu
-- Starts with one preset by default so players only add what they need
 
 Requires:
 
